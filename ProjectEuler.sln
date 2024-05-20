@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LargestPrimeFactor", "Large
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestPalindromeProduct", "LargestPalindromeProduct\LargestPalindromeProduct.csproj", "{9729F95E-A53A-46E1-80A3-3753BE6848DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestMultiple", "SmallestMultiple\SmallestMultiple.csproj", "{F6EE5F85-D325-43B1-A4F4-56DD10018CD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9729F95E-A53A-46E1-80A3-3753BE6848DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9729F95E-A53A-46E1-80A3-3753BE6848DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9729F95E-A53A-46E1-80A3-3753BE6848DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6EE5F85-D325-43B1-A4F4-56DD10018CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EE5F85-D325-43B1-A4F4-56DD10018CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EE5F85-D325-43B1-A4F4-56DD10018CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EE5F85-D325-43B1-A4F4-56DD10018CD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
